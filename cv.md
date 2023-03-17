@@ -28,3 +28,14 @@ Immediately after the release, I did not understand what kind of technologies I 
 I love learning, learning something new for myself. I am also very purposeful and diligent, so I am sure that I will be able to become an experienced developer.
 
 ***
+
+### Skills 
+
+***
+
+* HTML 
+* CSS
+* JavaScript Basics
+* Git, GitHub
+
+***

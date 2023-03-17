@@ -39,3 +39,20 @@ I love learning, learning something new for myself. I am also very purposeful an
 * Git, GitHub
 
 ***
+
+### Code Example
+
+***
+
+```
+
+const without = (arr, a, b) => arr.filter((item => item != a && item != b));
+
+const arr = [1, 2, 3, 1, 2, 5, 2, 6, 7, 2, 1];
+
+console.log(without(arr, 1, 2));
+
+```
+
+***
+

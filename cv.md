@@ -67,3 +67,9 @@ console.log(without(arr, 1, 2));
 
 *** 
 
+### Languages
+
+*** 
+
+* **Russian** – Native
+* **English** – A1 (soon I will have classes with a teacher, but for now I'm teaching him on the Internet using applications and google translator)

@@ -56,3 +56,14 @@ console.log(without(arr, 1, 2));
 
 ***
 
+### Education
+
+***
+
+* **University:** Kazan (Volga region) Federal University, Applied Mathematics and Computer Science
+* **Courses:**
+    * [HTML and CSS Tutorials](https://result.school/products/html-css) (completed)
+    * [JavaScript Manual](https://learn.javascript.ru/) (completed)
+
+*** 
+
